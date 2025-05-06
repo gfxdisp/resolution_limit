@@ -4,6 +4,27 @@ This repository contains data and MATLAB scripts for the project: 'Resolution li
 
 ---
 
+## System Requirements
+
+- **Software:** MATLAB R2021b or later
+- **Dependencies:** No external toolboxes required
+- **OS tested on:** Windows 11, Ubuntu 22.04
+- **Hardware:** No special hardware required; runs on standard desktop/laptop
+
+---
+
+## Installation Guide
+
+No installation is required.
+
+1. Clone or download the repository as a `.zip` file.
+2. Open MATLAB and add the `matlab` folder (and `utils/` subfolder) to the MATLAB path:
+   ```matlab
+   addpath(genpath('path_to_repository/matlab'))
+
+---
+
+
 ## Data Files
 
 * `data/resolution_limit_data.csv` - Observer-level results from the main resolution limit experiment. Each row corresponds to a single threshold measurement. Observer identifiers have been anonymized. The description of the variables is as follows:
