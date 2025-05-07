@@ -39,7 +39,7 @@ legendHandle = [];
 % colorbar
 cmin = 0;
 cmax = 1;
-colormap('viridis'); 
+colormap('parula'); 
 
 % figure,
 gap = [0.02 ,0.04];
