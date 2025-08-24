@@ -54,7 +54,7 @@ No installation is required.
 
 MATLAB scripts to generate the figures in the paper are provided in the directory `matlab`.
 * `plot_res_limit.m` - Generates **Figure 1a** (Figure 2a in Nature Communications paper): Violin plots showing resolution limit (in pixels per degree) across eccentricities and chromatic directions from the data in `data/resolution_limit_data.csv`.
-* `plot_heatmap_prediction_interval.m` - Generates **Figure 1b** (Figure 2b in Nature Communications paper): A heatmap representation of the modelled spatial resolution limits across eccentricity. Confidence intervals and predicted contours are drawn using model fits based on Watson (2018).
+* `plot_heatmap_prediction_interval.m` - Generates **Figure 1b** (Figure 2b in Nature Communications paper): A heatmap representation of the modeled spatial resolution limits across eccentricity. Confidence intervals and predicted contours are drawn using model fits based on Watson (2018).
 
 
 
